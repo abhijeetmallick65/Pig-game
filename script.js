@@ -94,4 +94,5 @@ Domstring.Hold.addEventListener("click", () => {
   }
 });
 
+// Again Button
 Domstring.New.addEventListener("click", Reset);
